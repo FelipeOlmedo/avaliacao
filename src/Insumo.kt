@@ -1,0 +1,1 @@
+class Insumo(var nome: String, var valor: Int)
